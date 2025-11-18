@@ -5,12 +5,10 @@ A calculator that calculates simple interest given principal, annual rate of int
 ## Usage
 
 Input:
-```python
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-```
+- p, principal amount
+- t, time period in years
+- r, annual rate of interest
+
 Output
-```python
-   simple interest = p*t*r
-```
+- simple interest = p*t*r
+
